@@ -28,7 +28,7 @@ install_requires = [
     'docutils>=0.10,<0.16',
     's3transfer>=0.3.0,<0.4.0',
     'PyYAML>=3.10,<5.5',
-    'colorama>=0.2.5,<0.4.4',
+    'colorama>=0.2.5,<0.4.5',
 ]
 
 if sys.version_info[:2] == (2, 7):
